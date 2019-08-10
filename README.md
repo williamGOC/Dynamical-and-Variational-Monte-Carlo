@@ -1,1 +1,1 @@
-# Dynamical-and-Variational-Monte-Carlo
+# Dynamical and Variational Monte Carlo
